@@ -1,5 +1,5 @@
 
-/*Universal Styles*/
+/* Universal Styles */
 a{
   color: black;
 }
@@ -11,7 +11,7 @@ nav span{
 
 
 
-/*Header Styles*/
+/* Header Styles */
 header{
  display: flex;
  font-family: Verdana;
